@@ -55,4 +55,4 @@ Make queries::
 Links
 -----
 
-- `IATA Codes Database <http://iatacodes.org/>`_
+- `AirLabs Database <https://airlabs.co>`_
